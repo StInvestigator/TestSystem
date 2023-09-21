@@ -105,4 +105,5 @@ public:
 	void testsToFile();
 	// Получение тестов из файла напрямую в базу данных
 	void testsFromFile();
+	// Thats all
 };
